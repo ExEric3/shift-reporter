@@ -1,0 +1,25 @@
+[
+  {
+    "name"              : "shift-api",
+    "script"            : "app.js",
+    "log_date_format"   : "YYYY-MM-DD HH:mm Z",
+    "merge_logs"        : false,
+    "watch"             : false,
+    "max_restarts"      : 10,
+    "exec_interpreter"  : "node",
+    "exec_mode"         : "fork_mode",
+    "env":
+    {
+      "NODE_ENV"        : "production",
+      "RPC_HOST"        : "localhost",
+      "RPC_PORT"        : "9305",
+      "LISTENING_PORT"  : "9305",
+      "INSTANCE_NAME"   : "PICK HERE YOUR NAME",
+      "CONTACT_DETAILS" : "PICK HERE YOUR CONTACT",
+      "NETWORK_MODE"    : "main",
+      "WS_SERVER"       : "wss://shiftstats.miners-zone.net",
+      "WS_SECRET"       : "ask here https://www.shiftproject.com/discord and PM @ExEric3",
+      "VERBOSITY"       : 0
+    }
+  }
+]
