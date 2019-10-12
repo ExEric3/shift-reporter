@@ -17,7 +17,7 @@
       "INSTANCE_NAME"   : "PICK HERE YOUR NAME",
       "CONTACT_DETAILS" : "PICK HERE YOUR CONTACT",
       "NETWORK_MODE"    : "main",
-      "WS_SERVER"       : "wss://shiftstats.miners-zone.net",
+      "WS_SERVER"       : "https://shiftstats.miners-zone.net",
       "WS_SECRET"       : "ask here https://www.shiftproject.com/discord and PM @ExEric3",
       "VERBOSITY"       : 0
     }
