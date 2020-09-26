@@ -43,7 +43,7 @@ And modify
       "CONTACT_DETAILS" : "", <- contact details, email or nick on Shift Discord Server to contact in case any failure
       "NETWORK_MODE"    : "main", <- main = main network, test = test network
       "WS_SERVER"       : "https://shiftstats.miners-zone.net",
-      "WS_SECRET"       : "Go to https://www.shiftproject.com/discord and pm me @ExEric3",
+      "WS_SECRET"       : "shift4ever",
       "VERBOSITY"       : 0 <- 0 = nothing 1 = errors and warns 2 = logs all
     }
   }
