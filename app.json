@@ -11,14 +11,14 @@
     "env":
     {
       "NODE_ENV"        : "production",
-      "RPC_HOST"        : "localhost",
+      "RPC_HOST"        : "127.0.0.1",
       "RPC_PORT"        : "9305",
       "LISTENING_PORT"  : "9305",
       "INSTANCE_NAME"   : "PICK HERE YOUR NAME",
-      "CONTACT_DETAILS" : "PICK HERE YOUR CONTACT",
+      "CONTACT_DETAILS" : "Discord @PICK HERE YOUR DC NICK",
       "NETWORK_MODE"    : "main",
       "WS_SERVER"       : "https://shiftstats.miners-zone.net",
-      "WS_SECRET"       : "ask here https://www.shiftproject.com/discord and PM @ExEric3",
+      "WS_SECRET"       : "shift4ever",
       "VERBOSITY"       : 0
     }
   }
